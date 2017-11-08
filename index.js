@@ -1,4 +1,4 @@
-function scuberGreetingForFeet(distance) {
+function scuberGreetingForFeet (distance) {
    ///debugger;
    if (distance <= 400){
      ///debugger;
@@ -21,7 +21,7 @@ function scuberGreetingForFeet(distance) {
    console.log(message)
    return message
  }
- 
+
  function switchOnCharmFromTip(tip) {
   switch (tip) {
    case 'generous':
